@@ -1,0 +1,15 @@
+# Ignorar arquivos sensíveis
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+
+# IDEs
+.idea/
+.vscode/
